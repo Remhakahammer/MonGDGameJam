@@ -1,0 +1,5 @@
+Plains Tile Set
+
+50*50
+
+2500 tiles
